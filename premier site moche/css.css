@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+    font-size: 100px;
+}
+
+#Bonjour{
+    color: blue;
+}
+p{
+    background-color: white;
+    font-size: 30px;
+}
+
+table{
+    border: 1px solid black;
+}
+
+td{
+    border:1px solid black;
+}
